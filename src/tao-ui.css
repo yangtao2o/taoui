@@ -15,3 +15,6 @@
 
 /* 导航条样式 */
 @import "./navbar.css";
+
+/* input 样式 */
+@import "./input.css";
